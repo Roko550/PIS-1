@@ -12,7 +12,14 @@ namespace PIS_1
             Console.WriteLine("Flashaj se u charm");
         }
 
+
         public static void test()
         { }
+
+        public static void ajaj()
+        {
+            
+        }
+
     }
 }
